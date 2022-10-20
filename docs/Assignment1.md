@@ -1,4 +1,4 @@
-# Assignment 1 Answers:
+# Assignment 1 (Git and Github) Answers:
 ---
 <img src="https://user-images.githubusercontent.com/43959475/193852439-ecf91e2d-c234-40d6-9639-10302efd9ab5.gif" width="30%" height="30%"/>
 
